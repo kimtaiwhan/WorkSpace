@@ -1,4 +1,3 @@
-package WorkSpace.Study.BAEKJOON.Basic;
 import java.util.Scanner;
 
 public class Q1000 {
