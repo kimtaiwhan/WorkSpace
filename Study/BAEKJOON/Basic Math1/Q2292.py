@@ -6,7 +6,7 @@ if N == 1:
     print(1)
 else:
     while True:
-        fst = fst + 6 * i
+        fst += 6 * i
         i += 1
         if N <= fst:
             break
